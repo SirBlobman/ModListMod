@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modlistmod",
+  "name": "Mod List Mod",
+  "description": "A mod that adds a '/mods' command that lets you view the list of installed mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SirBlobman"],
+  "credits": "The creators of Forge and FML for allowing us to mod the game.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
